@@ -16,5 +16,9 @@ int main()
 	int c=0;
 	std::cout << "enter three numbers";
 	std::cin >> a >> b >> c;
-	std::cout << "a" << " " << "b" << " " << "c";
+	std::cout << a << "  " << b << "  " << c;
+	system ("pause");
+    //4
+   
+	
 }
